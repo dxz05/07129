@@ -1,4 +1,4 @@
-//Problem URL: https://leetcode.com/problems/split-the-array-to-make-coprime-products
+// Problem URL: https://leetcode.com/problems/split-the-array-to-make-coprime-products
 
 class Solution {
 public:
